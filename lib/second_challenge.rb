@@ -10,8 +10,8 @@ def second_challenge
       :partriarch => {},
       :matriarch => {},
       :heroine => {},
-      :heroine_friends 
+      :heroine_friends => [],
       }
-
+}
   
 end
